@@ -17,5 +17,5 @@ $ truffle test
 $ truffle migrate
 ```
 
-## Preerquisitos
+## Prerequisitos
 Este proyecto necesita de una instalacion previa de [TestRPC](https://github.com/ethereumjs/testrpc), y [Truffle](https://github.com/trufflesuite/truffle).
