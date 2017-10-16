@@ -1,0 +1,30 @@
+{
+  "name": "smartcontracts",
+  "version": "1.0.0",
+  "description": "A simple smart contract using solidity.",
+  "main": "truffle.js",
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mesirendon/SmartContracts.git"
+  },
+  "keywords": [
+    "smart",
+    "contract",
+    "solidity",
+    "ethereum",
+    "person"
+  ],
+  "author": "Mesi Rendon <amrendonsa@unal.edu.co>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mesirendon/SmartContracts/issues"
+  },
+  "homepage": "https://github.com/mesirendon/SmartContracts#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1"
+  }
+}
